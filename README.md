@@ -4,6 +4,7 @@ Neighborhood Jobs is a job board web application where users can browse and appl
 
 Neighborhood Jobs can be accessed at the following link: https://neighborhood-jobs.onrender.com/
 
+![image](https://github.com/user-attachments/assets/c3b32b08-c67c-44f8-9b86-00a9b56849e7)
 
 ## Table of Contents
 
@@ -131,5 +132,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 """
+
 
 
